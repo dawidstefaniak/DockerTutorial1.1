@@ -1,0 +1,11 @@
+/Users/dawidstefaniak/Projects/DockerTutorial1.1/bin/Debug/netcoreapp2.1/DockerTutorial1.1.deps.json
+/Users/dawidstefaniak/Projects/DockerTutorial1.1/bin/Debug/netcoreapp2.1/DockerTutorial1.1.runtimeconfig.json
+/Users/dawidstefaniak/Projects/DockerTutorial1.1/bin/Debug/netcoreapp2.1/DockerTutorial1.1.runtimeconfig.dev.json
+/Users/dawidstefaniak/Projects/DockerTutorial1.1/bin/Debug/netcoreapp2.1/DockerTutorial1.1.dll
+/Users/dawidstefaniak/Projects/DockerTutorial1.1/bin/Debug/netcoreapp2.1/DockerTutorial1.1.pdb
+/Users/dawidstefaniak/Projects/DockerTutorial1.1/obj/Debug/netcoreapp2.1/DockerTutorial1.1.csprojAssemblyReference.cache
+/Users/dawidstefaniak/Projects/DockerTutorial1.1/obj/Debug/netcoreapp2.1/DockerTutorial1.1.csproj.CoreCompileInputs.cache
+/Users/dawidstefaniak/Projects/DockerTutorial1.1/obj/Debug/netcoreapp2.1/DockerTutorial1.1.AssemblyInfoInputs.cache
+/Users/dawidstefaniak/Projects/DockerTutorial1.1/obj/Debug/netcoreapp2.1/DockerTutorial1.1.AssemblyInfo.cs
+/Users/dawidstefaniak/Projects/DockerTutorial1.1/obj/Debug/netcoreapp2.1/DockerTutorial1.1.dll
+/Users/dawidstefaniak/Projects/DockerTutorial1.1/obj/Debug/netcoreapp2.1/DockerTutorial1.1.pdb
